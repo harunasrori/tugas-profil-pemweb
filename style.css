@@ -1,0 +1,69 @@
+body {
+    background-color: #FDFCFC;
+}
+
+.home-content {
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+    margin-top: 75px;
+}
+
+.home-content h1{
+    font-family: 'Heebo', sans-serif;
+    font-size: 36pt;
+    color: #21243D;
+}
+
+.home-content p{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    color: #21243D;
+}
+
+.home-content img{
+    margin-left: 100px;
+}
+
+.panggilan{
+    color: #60CAD9;
+}
+
+.sosmed{
+    padding-top: 50px;
+    display: flex;
+    align-items: left;
+    margin-left: 1100px; 
+}
+
+.sosmed a {
+    text-decoration: none;
+}
+.sosmed i {
+    margin: 10px;
+}
+
+.pagescroll2 {
+    margin-top: 50px;
+    padding-bottom: 50px;
+    background-color: #65cff0;
+}
+
+.achievementdkk-content {
+    padding-top: 30px;
+    margin-left: 150px;
+    color: #21243D;
+    
+}
+
+.achievementdkk-content h2 {
+    font-family: 'Heebo', sans-serif;
+    font-size: 30pt;
+    color: #21243D;
+}
+
+.achievementdkk-content article {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    color: #21243D;
+}
